@@ -1,5 +1,5 @@
 # Gabriel Tengan
-Olá! Eu sou Gabriel amante da tecnologia e estou sempre em busca de aprimorar minha habilidades nesta área em constante evolução. Estou em transição de carreira e busco me consolidar na
+Olá! Eu sou Gabriel amante da tecnologia e estou sempre em busca de aprimorar minhas habilidades nesta área em constante evolução. Estou em transição de carreira e busco me consolidar na
 área, almejando minha primeira oportunidade no setor tecnológico.
 
 ## Conecte-se comigo
